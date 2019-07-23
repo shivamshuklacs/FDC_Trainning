@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+}
+h1{
+	color:white;
+	font-weight: bold;
+	font-family: cursive;
+	font-size:30px;
+}
+p{
+	color:white;
+	font-family: arial;
+	font-size: 16.5px;
+}
+h4{
+	color:red;
+	font-size: 20px;
+}
+li{
+	color:white;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: Arial;
+	text-transform: 
+}
+li a{
+	color:yellow;
+}
